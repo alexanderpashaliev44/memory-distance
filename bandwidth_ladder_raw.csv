@@ -1,0 +1,5 @@
+tier,measured_gbs,theoretical_peak_gbs,utilization_pct
+GPU Shared SRAM (48 KB/SM),151.2,160.0,94.5
+GPU L2 Cache (256 KB),42.69,80.0,53.4
+GPU GDDR5 VRAM (128-bit),34.47,41.6,82.9
+PCIe 2.0 x16 Host<->GPU,6.4,8.0,80.0
